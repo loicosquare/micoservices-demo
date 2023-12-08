@@ -4,15 +4,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/client-ui/pom.xml" />
-        <option value="$PROJECT_DIR$/Optimisez-votre-architecture-Microservices/microservice-paiement/pom.xml" />
-        <option value="$PROJECT_DIR$/Optimisez-votre-architecture-Microservices/microservice-produits/pom.xml" />
-        <option value="$PROJECT_DIR$/Optimisez-votre-architecture-Microservices/microservice-commandes/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-paiement/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-produits/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-commandes/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>

@@ -1,39 +1,15 @@
 
+‘
+amicroservice-commandes/src/main/java/com/mcommandes/web/exceptions/CommandeNotFoundException.java,5\9\599813000a09ee57e9c1d10585c93dfee565e72a
+Š
+Zmicroservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java,a\7\a7b79605bc70a4ddb993cb895d94df9880ec24d9
 t
 Dclient-ui/src/main/java/com/client/clientui/ClientUiApplication.java,4\4\44291d355dfdb037a5e7719963c9bc71585c10b2
-¶
-…Optimisez-votre-architecture-Microservices/microservice-commandes/src/main/java/com/mcommandes/web/controller/CommandeController.java,8\b\8bdf3cb49cc82e5cd57c06971b9448abd6ca330b
-|
-Lclient-ui/src/main/java/com/client/clientui/controller/ClientController.java,d\9\d9609bd49b76759b7ecbae9b6b93a976ea901093
+S
+#microservice-paiement/mpaiement.iml,1\1\1126b5cc1c4f796c99921b818f31d9e79e11a92a
+O
+microservice-commandes/mvnw.cmd,c\6\c6be9f893d823d30ece5884400656b7c87154202
+N
+microservice-commandes/pom.xml,c\8\c848ee106c6377eb890dbee10c2eafb921859c7c
 A
 client-ui/pom.xml,a\1\a138cb9402e1b0057c374a256f34c8de04dc7cd9
-y
-IOptimisez-votre-architecture-Microservices/microservice-commandes/pom.xml,b\d\bd4388514a90627ad5b384ad062cd976c3876ada
-x
-HOptimisez-votre-architecture-Microservices/microservice-paiement/pom.xml,0\c\0cc78fb5dee15a919e754067f6b8f77e85a2ef55
-x
-HOptimisez-votre-architecture-Microservices/microservice-produits/pom.xml,8\3\83940e90a5c017d6cf3a91fc072ccc4cbea4f8ea
-Ÿ
-oOptimisez-votre-architecture-Microservices/microservice-produits/src/main/java/com/mproduits/model/Product.java,8\2\827c6fe0abb82362aa04aa7f352a929c6ea52a85
-³
-‚Optimisez-votre-architecture-Microservices/microservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java,8\0\80c981b2d642565f0616128c592d0261001e9ec1
-¡
-qOptimisez-votre-architecture-Microservices/microservice-paiement/src/main/java/com/mpaiement/dao/PaiementDao.java,d\b\db725e244870f52c91eae884478aefa0d9e146e7
- 
-pOptimisez-votre-architecture-Microservices/microservice-paiement/src/main/java/com/mpaiement/model/Paiement.java,4\a\4a09f5dedb5fed0e530cd3d8ddf8cec271889bca
-´
-ƒOptimisez-votre-architecture-Microservices/microservice-paiement/src/main/java/com/mpaiement/web/controller/PaiementController.java,3\4\34009ac9a26c1d91dc9a3fe27baff3e8b83414f1
-¢
-rOptimisez-votre-architecture-Microservices/microservice-commandes/src/main/java/com/mcommandes/model/Commande.java,1\3\134d034936fe4d92686610eefcc13bec4c11ea16
-r
-Bclient-ui/src/main/java/com/client/clientui/beans/ProductBean.java,a\a\aa8e1e28ff42cb05dfa9f917f3c8caefb4f998fb
-‚
-Rclient-ui/src/main/java/com/client/clientui/proxies/MicroserviceProduitsProxy.java,4\0\40bb63a225c0de6dc7e729b4947b28f7373b7863
-¦
-vOptimisez-votre-architecture-Microservices/microservice-paiement/src/main/java/com/mpaiement/MpaiementApplication.java,f\3\f3559ebdf8f12160f0c15e8d4de2d764de8656f9
-¦
-vOptimisez-votre-architecture-Microservices/microservice-produits/src/main/java/com/mproduits/MproduitsApplication.java,c\e\ce4ec8486297312f34cbd8ca8fe78d97567f6218
- 
-pOptimisez-votre-architecture-Microservices/microservice-produits/src/main/java/com/mproduits/dao/ProductDao.java,c\7\c774d27715fb3cab4c83761a892597825a02630c
-;
-qodana.yaml,8\5\85c3a901608a6b9adf48d245fa84828b66304e51
